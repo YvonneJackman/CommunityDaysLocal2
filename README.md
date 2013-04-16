@@ -1,4 +1,2 @@
-CommunityDaysLocal
-==================
+CommunityDaysLocal2 Readme
 
-CommunityDaysLocal
